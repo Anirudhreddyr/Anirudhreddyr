@@ -15,13 +15,12 @@ I’m passionate about low-level programming, embedded Linux, and building effic
 ## Tech Stack
 
 **Languages:**  
-- Embedded C  
-- Basics of Python, Shell Scripting  
+- Embedded C, Shell Scripting  
 
 **Embedded & Systems:**  
 - Microcontrollers  
 - Embedded Linux  
-- Device Drivers (Basics)  
+- Device Drivers
 - UART, SPI, I2C  
 
 **Networking:**  

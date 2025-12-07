@@ -1,7 +1,7 @@
 # Hi 👋, I'm Anirudh Reddy
 
 🚀 **Embedded Systems & Networking Enthusiast**  
-I’m passionate about low-level programming, embedded Linux, and building efficient system-level software. I love working close to hardware and solving real-world problems through optimized code.
+I’m passionate about low-level programming, embedded Linux, and building efficient system-level software. where i work close to hardware and solving real-world problems through optimized code.
 
 ----
 
